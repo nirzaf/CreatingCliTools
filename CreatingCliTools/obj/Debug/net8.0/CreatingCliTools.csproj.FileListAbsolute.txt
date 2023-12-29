@@ -52,3 +52,4 @@ C:\Users\nirza\Downloads\4KHFrbJHCHc-dsfbuih4w857ht7894ht78wet78\CreatingCliTool
 C:\Users\nirza\Downloads\4KHFrbJHCHc-dsfbuih4w857ht7894ht78wet78\CreatingCliTools\obj\Debug\net8.0\CreatingCliTools.pdb
 C:\Users\nirza\Downloads\4KHFrbJHCHc-dsfbuih4w857ht7894ht78wet78\CreatingCliTools\obj\Debug\net8.0\CreatingCliTools.genruntimeconfig.cache
 C:\Users\nirza\Downloads\4KHFrbJHCHc-dsfbuih4w857ht7894ht78wet78\CreatingCliTools\obj\Debug\net8.0\ref\CreatingCliTools.dll
+C:\Users\nirza\Downloads\4KHFrbJHCHc-dsfbuih4w857ht7894ht78wet78\CreatingCliTools\obj\Debug\net8.0\CreatingCliTools.sourcelink.json
